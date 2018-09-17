@@ -5,7 +5,7 @@ Jamleck Ndung'u
 Triangle Type Finder
 
 # description of project
-This website shows how a triangle can be formed..whereby the triangle tracker takes the lengths of three sides of a triangle and determines the kind of triangle to be formed 
+This website shows how a triangle can be formed..whereby the triangle tracker takes the lengths of three sides of a triangle and determines the type of triangle to be formed 
 
 # set up instruction
 You would need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), *A web browser(Chrome is most recommendable) 
