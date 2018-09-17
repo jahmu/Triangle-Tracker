@@ -11,7 +11,7 @@ This website shows how a triangle can be formed
 You would need the following to access the website *Smart phone/PC/laptop/Desktop/Tablet or any PDA *Internet connectivity (either wireless or ethernet), *A web browser(Chrome is most recommendable) 
 
 # link to live site on GitHub pages
-
+https://jahmu.github.io/Triangle-Tracker/
 
 # Support
 For assistance contact ndungujamleck23@gmail.com
