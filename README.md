@@ -2,7 +2,7 @@
 Jamleck Ndung'u
 
 # project or program name
-Triangle Type Finder
+Triangle Tracker
 
 # description of project
 This website shows how a triangle can be formed..whereby the triangle tracker takes the lengths of three sides of a triangle and determines the type of triangle to be formed 
