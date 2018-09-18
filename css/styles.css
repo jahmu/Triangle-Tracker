@@ -4,6 +4,12 @@ body{
     background-size: cover;
     text-align: center;
 }
+<<<<<<< HEAD
 h1{
     color: blue
+=======
+
+h1{
+    color: brown
+>>>>>>> 8111724d965651b152fc0eb035e7c4a687d27207
 }
